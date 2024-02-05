@@ -1,0 +1,47 @@
+/* Add this CSS to your stylesheet or inline styles */
+.cart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cart-table {
+    margin-top: 20px;
+  }
+  .total-cost {
+    margin-top: 20px;
+  }
+.buttoninc{
+  padding: 5px 15px 5px 15px;
+  margin-top: -40px;
+  border: 1px solid gray;
+  margin-bottom: 100px;
+  margin-left: 5px;
+  border-radius: 1px;
+  background-color: white;
+}
+.buttoninc2{
+  padding: 5px 15px 5px 15px;
+  margin-top: -40px;
+  border: 1px solid gray;
+  margin-bottom: 100px;
+  margin-left: 5px;
+  border-radius: 1px;
+  background-color: white;
+}
+:hover.buttoninc{
+  background-color: rgb(244, 169, 71);
+}
+.XCircles{
+  color: grey;
+  background-color: white; 
+}
+:hover.XCircles{
+  color: black;
+  background-color: white;
+}
+button{
+  background-color: white;
+}
+.Buttoncheck{
+  background-color: rgb(244, 169, 71);
+}
